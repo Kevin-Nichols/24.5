@@ -1,0 +1,26 @@
+.message.good {
+    color: white;
+    background-color: green;
+  }
+  
+  .message.error {
+    color: white;
+    background-color: red;
+  }
+
+  .game_board {
+    border: solid 1px black;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 200%;
+  }
+  
+  .game_board td {
+    text-align: center;
+    width: 1.5em;
+    height: 1.5em;
+  }
+  
+  .message {
+    padding: 1em;
+  }
